@@ -28,6 +28,7 @@ Proyecto de análisis de datos que busca comprender la distribución de bibliote
 - Construcción de indicadores y medidas en DAX
 - Visualización de datos mediante Power BI
 - Generación de insights para la toma de decisiones
+- Documentación del proceso
 
 ---
 
