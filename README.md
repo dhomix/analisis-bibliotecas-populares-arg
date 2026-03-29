@@ -39,14 +39,14 @@ Se identificaron patrones y brechas territoriales en la distribución de bibliot
 
 
 ---
-
-## 📊 Dashboard general
 ![Dashboard](images/dashb-1.jpg)
 
 ## Modelo relacional
 ![Dashboard](images/der_bibliotecas.jpg)
 
-## Visualizaciones
+## Dashboard general y visualizaciones
 ![Dashboard](images/dashb-2.jpg)
+
 ![Dashboard](images/dashb-3.jpg)
+
 ![Dashboard](images/dashb-4.jpg)
