@@ -37,5 +37,8 @@ Se identificaron patrones y brechas territoriales en la distribución de bibliot
 ---
 
 ## 📊 Dashboard
-![Dashboard](image/dashb-1.jpg)
-![Dashboard](image/der_bibliotecas.jpg)
+![Dashboard](images/dashb-1.jpg)
+![Dashboard](images/der_bibliotecas.jpg)
+![Dashboard](images/dashb-2.jpg)
+![Dashboard](images/dashb-3.jpg)
+![Dashboard](images/dashb-4.jpg)
