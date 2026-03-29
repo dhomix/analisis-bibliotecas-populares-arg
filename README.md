@@ -33,7 +33,7 @@ Proyecto de análisis de datos que busca comprender la distribución de bibliote
 ---
 
 ## 📈 Resultados
-El análisis evidenció patrones y brechas territoriales en la distribución de bibliotecas populares en relación con la población, poniendo en perspectiva posibles desigualdades en el acceso a recursos culturales.
+El análisis permitió evidenciar patrones y brechas territoriales en la distribución de bibliotecas populares en relación con la población, poniendo en perspectiva posibles desigualdades en el acceso a recursos culturales.
 
 ---
 
