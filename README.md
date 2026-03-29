@@ -5,6 +5,13 @@ Proyecto de análisis de datos que busca comprender la distribución de bibliote
 
 ---
 
+## 📁 Estructura del repositorio
+- `/powerbi` → archivo en fortmato .pbix
+- - `/docs` → documentación del proyecto
+- `/images` → visualizaciones del dashboard
+
+--
+
 ## 🛠️ Tecnologías utilizadas
 - Python (Pandas)
 - SQL
@@ -17,7 +24,7 @@ Proyecto de análisis de datos que busca comprender la distribución de bibliote
 ## 🔍 Procesos realizados
 - Modelado de datos conceptual y relacional
 - Extracción, limpieza y transformación de datos utilizando Python y SQL
-- Análisis exploratorio de datos (EDA)
+- Análisis exploratorio de datos
 - Construcción de indicadores y medidas en DAX
 - Visualización de datos mediante Power BI
 - Generación de insights para la toma de decisiones
@@ -29,10 +36,7 @@ Se identificaron patrones y brechas territoriales en la distribución de bibliot
 
 ---
 
-## 📁 Estructura del repositorio
-- `/powerbi` → dashboard en Power BI
-- `/docs` → documentación del proyecto
-- `/images` → visualizaciones del dashboard
+
 
 ---
 
