@@ -10,7 +10,6 @@ Proyecto de análisis de datos que busca comprender la distribución de bibliote
 - `/docs` → documentación del proyecto
 - `/images` → visualizaciones del dashboard
 
---
 
 ## 🛠️ Tecnologías utilizadas
 - Python (Pandas)
