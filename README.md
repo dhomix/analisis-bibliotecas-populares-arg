@@ -10,9 +10,9 @@ Proyecto de análisis de datos que busca comprender la distribución de bibliote
 - `/docs` → documentación del proyecto
 - `/images` → visualizaciones del dashboard
 
+---
 
 ## 🛠️ Tecnologías utilizadas
-- Python (Pandas)
 - SQL
 - Power BI
 - Power Query
@@ -21,9 +21,10 @@ Proyecto de análisis de datos que busca comprender la distribución de bibliote
 ---
 
 ## 🔍 Procesos realizados
+- Recolección e integración de datos a partir de fuentes públicas
 - Modelado de datos conceptual y relacional
-- Extracción, limpieza y transformación de datos utilizando Python y SQL
-- Análisis exploratorio de datos
+- Extracción, limpieza y transformación de datos utilizando SQL y Power Query
+- Análisis exploratorio de datos (EDA)
 - Construcción de indicadores y medidas en DAX
 - Visualización de datos mediante Power BI
 - Generación de insights para la toma de decisiones
