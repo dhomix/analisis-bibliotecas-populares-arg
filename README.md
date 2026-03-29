@@ -1,7 +1,7 @@
 # 📊 Análisis territorial de bibliotecas populares en Argentina
 
-## 📌 Descripción
-Proyecto de análisis de datos orientado a estudiar la distribución de bibliotecas populares en Argentina en relación con variables demográficas.
+## Descripción
+Proyecto de análisis de datos que busca comprender la distribución de bibliotecas populares en Argentina en relación con la población, utilizando datos públicos abiertos. A través del análisis, se intenta visibilizar posibles desigualdades territoriales en el acceso a bienes culturales.
 
 ---
 
@@ -37,4 +37,5 @@ Se identificaron patrones y brechas territoriales en la distribución de bibliot
 ---
 
 ## 📊 Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](image/dashb-1.jpg)
+![Dashboard](image/der_bibliotecas.jpg)
