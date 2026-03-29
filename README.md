@@ -7,7 +7,7 @@ Proyecto de análisis de datos que busca comprender la distribución de bibliote
 
 ## 📁 Estructura del repositorio
 - `/powerbi` → archivo en fortmato .pbix
-- - `/docs` → documentación del proyecto
+- `/docs` → documentación del proyecto
 - `/images` → visualizaciones del dashboard
 
 --
