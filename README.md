@@ -13,7 +13,6 @@ Proyecto de análisis de datos que busca comprender la distribución de bibliote
 ---
 
 ## 🛠️ Tecnologías utilizadas
-- SQL
 - Power BI
 - Power Query
 - DAX
